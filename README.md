@@ -8,6 +8,7 @@ Computação da Universidade Federal de Lavras (UFLA).
 | # | Trabalho | Tema | Stack |
 |---|----------|------|-------|
 | 01 | [Classificação KNN](./01-knn-classificacao) | K-Nearest Neighbors implementado do zero e comparado com Scikit-learn | Python, NumPy, Scikit-learn, Matplotlib |
+| 02 | [Agrupamento K-Means](./02-kmeans-clusterizacao) | K-Means implementado do zero, com k-means++, Método do Cotovelo e Silhouette | Python, NumPy, Matplotlib, PCA |
 
 ## Organização
 
