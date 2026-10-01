@@ -9,6 +9,7 @@ Computação da Universidade Federal de Lavras (UFLA).
 |---|----------|------|-------|
 | 01 | [Classificação KNN](./01-knn-classificacao) | K-Nearest Neighbors implementado do zero e comparado com Scikit-learn | Python, NumPy, Scikit-learn, Matplotlib |
 | 02 | [Agrupamento K-Means](./02-kmeans-clusterizacao) | K-Means implementado do zero, com k-means++, Método do Cotovelo e Silhouette | Python, NumPy, Matplotlib, PCA |
+| 03 | [Classificação com MLP](./03-mlp-classificacao) | Rede neural MLPClassifier nas bases Iris e Wine, comparada com o KNN do TP01 | Python, Scikit-learn, Matplotlib |
 
 ## Organização
 
